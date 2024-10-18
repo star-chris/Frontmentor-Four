@@ -1,0 +1,81 @@
+
+body {
+    background-color: black; 
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+}
+main {
+    background-color: rgb(247, 234, 237); 
+    max-width: 35rem; 
+    padding: 4rem; 
+}
+
+.recipe {
+    background-color: white;
+    margin: 3rem;
+    max-height: 100%;
+    border-radius: 2rem;
+    padding: 1.5rem;
+
+}
+
+img {
+    border-radius: 1;
+    width: 100%;
+    height: auto;
+    display: block;
+    margin-bottom: 0.5rem ;
+    border-radius: 0.5rem;
+}
+
+header{
+    font: bolder;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 0.5rem;
+}
+p{
+    font-size: 10px;
+    font-weight: 1rem;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+}
+
+.sec-1{
+    background-color: rgb(247, 234, 237); 
+}
+
+h2{
+    font-size: large;
+    font-weight: 1rem;
+    font-family: 'Times New Roman', Times, serif;
+    color: brown;
+}
+li{
+    font-size: 13px;
+    font-weight: 1rem;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+h4{
+    color: brown;
+    font-size: small;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.faint-line{
+    border-top: 1px solid rgba(0, 0, 0, 1);
+    margin: 1rem 0; 
+    border: none; 
+    
+}
+
+.space{
+    word-spacing: 13rem;
+    list-style: none;
+    
+}
